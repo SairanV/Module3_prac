@@ -367,7 +367,7 @@ namespace test
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Выберите задачу (3-11):");
+            Console.WriteLine("Выберите задачу (1-11):");
             int taskNumber = int.Parse(Console.ReadLine());
             { }
             switch (taskNumber)
